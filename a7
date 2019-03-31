@@ -1,0 +1,21 @@
+public class Lomuto 
+{
+	public void main (String[] args)
+	{
+		int[] subarray = new int[] {2,5,3,6,8,1} ;
+		int k=0;
+	}
+	
+	public int quickSelect(int[] s,int k)
+	{
+		for(int i=0; i<s.length; i++)
+		{
+			if(s[i]==k-1)
+			{
+				
+			}
+				
+		}
+		return 0;
+	}
+}
